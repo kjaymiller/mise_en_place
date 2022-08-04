@@ -10,6 +10,9 @@ python = "^3.10"
 textual = "^0.1.18"
 rich = "^12.5.1"
 pinboard = "^2.1.8"
+prompt-toolkit = "^3.0.30"
+markdown2 = "^2.4.3"
+feedparser = "^6.0.10"
 
 [tool.poetry.dev-dependencies]
 pytest = "^7.1.2"
