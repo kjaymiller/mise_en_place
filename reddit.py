@@ -1,6 +1,5 @@
 import datetime
 from time import mktime
-from webbrowser import get
 import feedparser as fp
 from rich.table import Table
 from rich.markdown import Markdown

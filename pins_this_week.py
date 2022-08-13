@@ -1,4 +1,3 @@
-import webbrowser
 from pinboard import Pinboard
 from datetime import date, timedelta
 import os
